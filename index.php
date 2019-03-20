@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello AWS";
+echo "Hello AWS #3";
